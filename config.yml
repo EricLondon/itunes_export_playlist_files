@@ -1,0 +1,9 @@
+---
+playlist_path: ./Jeep.txt
+export_path: /Volumes/ERLJEPMUSIC
+output_parts:
+- Artist
+- Album
+- Track Number
+- Name
+output_delimiter: " - "
